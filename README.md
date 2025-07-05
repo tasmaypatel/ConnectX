@@ -1,4 +1,5 @@
 🌐 ConnectX - A Social Media Database Project 📱
+
 ConnectX is a Database Management System (DBMS)-based social media application designed for seamless interactions, dynamic content sharing, and user engagement.
 
 ✨ Features
