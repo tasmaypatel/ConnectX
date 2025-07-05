@@ -3,6 +3,7 @@
 ConnectX is a Database Management System (DBMS)-based social media application designed for seamless interactions, dynamic content sharing, and user engagement.
 
 ✨ Features
+
 1. 👤 User Management
 User Registration & Login: Secure account creation and authentication.
 
