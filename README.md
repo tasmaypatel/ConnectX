@@ -67,16 +67,3 @@ ConnectX is more than a social platform — it's a robust **DBMS project** empha
 
 ---
 
-## 📁 Resources
-
-* [README](#)
-* Activity: 🟢 Ongoing
-* Stars: ⭐ 0
-* Watchers: 👁️ 0
-* Forks: 🍴 0
-* Releases: ❌ No releases published
-* Packages: 📦 No packages published
-
----
-
-Let me know if you'd like badges (e.g., license, version, tech stack) or markdown code blocks for database schema, ER diagrams, or sample queries added.
